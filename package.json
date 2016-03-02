@@ -12,7 +12,7 @@
     "url": "git+https://github.com/Reactive-Extensions/rx-node.git"
   },
   "dependencies": {
-    "rx": "*"
+    "@reactivex/rxjs": "*"
   },
   "devDependencies": {
     "tape": "^4.4.0",
